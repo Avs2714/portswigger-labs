@@ -64,7 +64,6 @@ Each lab in this repository includes:
 - When (when the attack is applicable)
 - Who (who can exploit it and who is affected)
 - How (step-by-step solution, payloads, and screenshots)
-- Mitigation
 - Key Takeaways
 - References
 
