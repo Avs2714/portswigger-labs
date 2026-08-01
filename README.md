@@ -32,7 +32,7 @@ JWT/
 
 | Topic | Completed |
 |--------|----------:|
-| SQL Injection | 0/18 |
+| SQL Injection | 1/18 |
 | XSS | 0/16 |
 | Authentication | 0/11 |
 | Access Control | 0/13 |
